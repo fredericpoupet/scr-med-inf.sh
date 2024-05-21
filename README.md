@@ -43,12 +43,12 @@ chmod +x scr-med-inf.sh
 
 Exécution du script :
 ```
-.\scr-med-inf.sh
+./scr-med-inf.sh
 ```
 
 Exécution du script, enregistrement simultané dans un fichier :
 ```
-.\scr-med-inf.sh | tee <FICHIER>
+./scr-med-inf.sh | tee <FICHIER>
 ```
 
 ## Exemple de résultat
